@@ -5,3 +5,12 @@
     }
 
 zgzfh
+
+
+  public void logowanie_microsoft() {
+        System.out.println("Podaj nazwę użytkownika_ms");
+        System.out.println("Podaj poprawne hasło!!");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
+
+
