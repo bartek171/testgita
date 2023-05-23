@@ -4,4 +4,10 @@
         System.out.println("Kliknij na przycisk zaloguj");
     }
 
-zgzfh
+
+
+   public void logowanie_google() {
+        System.out.println("Podaj email z gmaila");
+        System.out.println("Podaj poprawne hasło!!");
+        System.out.println("Kliknij na przycisk zaloguj");
+    }
